@@ -1,0 +1,4 @@
+// Ask user for a positive number that defines the height
+// Start counting at one '#'
+// For each row print one more '#' and go to the next
+// Repeat until the length of the row is equal to the defined height
